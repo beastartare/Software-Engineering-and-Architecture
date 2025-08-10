@@ -12,6 +12,10 @@ installation guides, technical documentation, and more.
 Software engineering primarily aims to improve the development of systems through well-defined techniques, practices, and methodologies. It covers the entire software development process — also known as the **software life cycle** — from initial conception to ongoing maintenance.  
 The methodologies used in software engineering seek to make the development process faster, more efficient, and cost-effective.
 
+Good software must meet the functionality and performance requirements of the user, be reliable, and offer easy maintenance and usability.
+
+The fundamental activities in software engineering are specification, development, validation, and evolution.
+
 ## Software Architecture  
 Software architecture, on the other hand, focuses on structuring and organizing the system, defining its main components, their responsibilities, and how they interact. It lays the technical and strategic foundation of the system, guiding decisions that impact its scalability, security, performance, and maintainability over time.
 
